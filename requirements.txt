@@ -1,0 +1,6 @@
+python-dotenv
+pymongo
+pymongo[srv]
+numpy
+nltk
+tensorflow
